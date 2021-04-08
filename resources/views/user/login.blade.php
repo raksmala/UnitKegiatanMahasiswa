@@ -26,6 +26,9 @@
                             <label for="kritik">Password</label>
                             <input type="password" id="password" name="password" required class="form-control">
                         </div>
+                        <div class="form-group">
+                            <label for="akun">Belum memiliki akun? Silahkan hubungi admin BEM</label>
+                        </div>
 
                         <div class="form-group text-right m-b-0">
                             <button class="btn btn-primary waves-effect waves-light" type="submit">Masuk</button>
